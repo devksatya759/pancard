@@ -1,0 +1,12 @@
+.mainDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background: red;
+    color: white;
+}
+.tableDiv{
+    display: flex;
+    background: black;
+    color: white;
+}
